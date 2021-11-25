@@ -10,3 +10,4 @@ for i in range(len(text) - 1):
         break
 print(text[0] + str(count))
 
+print('Хоба, новый комит')
